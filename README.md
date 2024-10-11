@@ -40,7 +40,7 @@
  🔭 &emsp; I’m currently researching at **SBIR-HCM**<br/><br/>
  ✌️ &emsp; Enjoy to do programming, researching and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📄 &emsp; Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)<br/><br/>
+ 📄 &emsp; Know about my experiences [my experiences](#)<br/><br/>
  📧 &emsp; Reach me anytime: **pmtien16.8@gmail.com**<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)<br/>
 
