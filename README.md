@@ -42,7 +42,7 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📄 &emsp; Know about my experiences [my experiences](#)<br/><br/>
  📧 &emsp; Reach me anytime: **pmtien16.8@gmail.com**<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)<br/>
+ 💬 &emsp; Ask me about anything [here](#)<br/>
 
 </p>
 
